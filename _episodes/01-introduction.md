@@ -22,7 +22,7 @@ FIXME
 
 ## 1.1 Intro interface ##
 - What is Wikidata?
-  - Wikidatas own description says:
+  - Wikidata's own description says:
   "Wikidata is a free and open knowledge base that can be read and edited by both humans and machines."
   - Let's try this out in the next section of this lesson and see if we as humans can simply read the data on Wikidata:
 - Explore a Wikidata Item page:
@@ -34,7 +34,7 @@ FIXME
   - Now go to the search bar in the top right corner and enter "british library". This will give you a list with search results. Click the entry that says: "British Library (Q23308) national library of the United Kingdom". Now you should see the british library's item page:
      https://www.wikidata.org/wiki/Q23308
 
-  - Let us explore the item British Library (Q23308). The top part of the item page serves for identifying the item. It    has:
+  - Let us explore the item British Library (Q23308). The top part of the item page serves for identifying the item. It has:
     - unique identifier (Q + a number)
     - label 
     - description
@@ -56,7 +56,7 @@ FIXME
     - "View history" - more later
     - "Log in" and other things for registered users
 
-- All structured data is under the creative Creative Commons CC0 License:
+- All structured data is under the Creative Commons CC0 License:
 "The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission."
 from https://creativecommons.org/publicdomain/zero/1.0/
 
