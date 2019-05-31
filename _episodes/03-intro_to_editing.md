@@ -59,7 +59,7 @@ That was fun - let's do this again but this time we create an entry for a book. 
 
 
 
-- Once we are done we click click "Create". You should see something like his:
+- Once we are done we click "Create". You should see something like his:
 
 ![Wikidata Feyman](../fig/l03-Mae_Jemison_05_Newly_created_book.png)  
 
